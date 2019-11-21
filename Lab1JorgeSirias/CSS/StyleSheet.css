@@ -1,0 +1,30 @@
+﻿/*
+Author:Jorge Sirias
+COP 4813 Website Application Programming
+*/
+body
+{
+    background-color: dodgerblue;
+}
+#Main{
+    height: 200px;
+    background-color: coral;
+    text-align:center;
+    color:white;
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+#Outer{
+    border-width: 1px;
+    border-color: white;
+    border-style: solid;
+    padding: 7px;
+}
+#MessageBox{
+    border width: 1px;
+    border-color: white;
+    border-style: solid;
+    padding: 7px;
+    text-align: center;
+    color: wheat;
+}
